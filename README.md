@@ -17,7 +17,7 @@ As chaves estrangeiras conectam `locacao` a `pessoas` e `ciclomotor`, e `trajeto
 
 ## Diagrama entidade-relacionamento
 
-![Diagrama DER do MoveRent](MoveRent_DER.png)
+![Diagrama DER do MoveRent](MoveRent_DER.svg)
 
 ## Dados de exemplo
 
@@ -52,7 +52,7 @@ ORDER BY Total_Locacoes DESC;
 
 - `moverent_backup.sql`: estrutura, relacionamentos e dados fictícios.
 - `consultas.sql`: consultas analíticas.
-- `MoveRent_DER.png`: diagrama relacional.
+- `MoveRent_DER.svg`: diagrama relacional em formato vetorial.
 - `README.md`: documentação.
 
 ## Aprendizados
